@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022351518410",
+    "project_id": "ai-disaster-prediction-78c07",
+    "storage_bucket": "ai-disaster-prediction-78c07.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022351518410:android:e39629edb1559816eba233",
+        "android_client_info": {
+          "package_name": "com.rachit.drishti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTvyfoIVRLXrscxk7gZLq79fUUdHgJwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

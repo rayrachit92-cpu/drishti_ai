@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local database (recreated by launch.py)
+drishti.db
+
+# ML models (large; retrain with: python3 flood_predictor.py train)
+models/
+
+# Flutter build cache
+drishti_ai/build/
+drishti_ai/.dart_tool/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
